@@ -26,6 +26,11 @@ export const metadata: Metadata = {
     description: "انضم إلى أفضل سيرفر حياة واقعية في الشرق الأوسط. تجربة لعب فريدة ومجتمع رياضي.",
     images: ["/assets/logo.png"],
   },
+  icons: {
+    icon: "/assets/logo.png",
+    shortcut: "/assets/logo.png",
+    apple: "/assets/logo.png",
+  },
 };
 
 export default function RootLayout({
