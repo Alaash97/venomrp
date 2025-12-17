@@ -27,7 +27,7 @@ export default function Navbar() {
                 {/* Logo Icon */}
                 <div className="pl-4 pr-2 border-l border-white/10">
                     <span className="font-bold text-white tracking-tighter">
-                        V<span className="text-primary">RP</span>
+                        Venom<span className="text-primary">RP</span>
                     </span>
                 </div>
 
